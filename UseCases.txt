@@ -1,0 +1,107 @@
+---
+markmap:
+  maxWidth: 300
+  initialExpandLevel: 2
+  
+---
+
+# Large Language Model Use Cases in Cybersecurity
+
+## Threat Intelligence
+   - Automated Threat Reporting
+     - Summarize findings
+     - Generate comprehensive reports
+   - Real-time Threat Analysis
+     - Analyze new threats
+     - Provide threat context
+
+## Detection Engineering
+  - Rule Creation
+    - Suggest code for first draft of detection rule based on language description
+    - Troubleshoot rule language 
+    - Reduce false positives
+    - Incorporate additional data sources
+  - Rule Documentation
+    - Document developed detection rules for SIEM tools
+    - Generate comprehensive reports on rule effectiveness
+
+## Incident Response
+   - Automated Incident Analysis
+     - Analyze log files
+     - Identify malicious activity
+     - Compile case materials
+   - Incident Response Communication
+     - Draft communication to stakeholders
+     - Explain technical incidents in layman's terms
+     - Text search through case history
+   - Human-in-the-Loop Automation
+     - Provide recommendations for manual tasks
+     - Assist in decision-making during complex security incidents
+   - Automated Case Management
+     - Document actions taken during an incident
+     - Generate incident reports and lessons learned
+
+
+## Security Orchestration, Automation and Response (SOAR) Integration
+   - Automated escalation and notification based on alert severity / context
+   - Playbook Creation and customization
+
+## Vulnerability Management
+   - Vulnerability Analysis
+     - Analyze vulnerability reports
+     - Prioritize patching based on threat intelligence
+   - Automated Remediation Instructions
+     - Generate patching instructions
+     - Generate mitigation recommendations
+
+## Platform Configuration
+   - Cloud Security Posture Management (CSPM)
+     - Generate reports on audit findings of cloud configurations
+     - Draft remediation plans for misconfigurations
+   - Identity and Access Management (IAM)
+     - Assist in drafting IAM policies
+     - Summarize reviews of IAM roles and permissions
+   - Network Security
+     - Document configuration procedures for security groups and VPCs
+     - Generate network security reports
+   - Data Protection
+     - Generate instructions for implementing encryption
+     - Assist in documenting key and secret management procedures
+   - Compliance
+     - Assist in drafting documentation to prove regulatory adherence
+     - Generate audit reports for compliance
+
+## Security Training and Awareness
+   - Security Training Material Creation
+     - Generate security quizzes
+     - Create scenarios for tabletop exercises
+   - Phishing Simulation
+     - Draft phishing emails for awareness training
+     - Analyze responses to phishing simulations
+
+## AI Ethics and Governance
+   - Policy and Procedure Documentation
+     - Generate initial draft for policies and procedures
+     - Review and provide suggestions for existing policies
+   - AI Ethics Consultation
+     - Provide insights on ethical considerations
+     - Generate recommendations for AI governance
+
+## Threat Hunting
+   - Hypothesis Generation
+     - Generate possible threat hunting hypotheses
+     - Provide insights for threat hunting operations
+   - Threat Hunting Code Assist
+     - Provide useful queries to accomplish threat hunt tasks
+     - Troubleshoot unexpected results
+   - Threat Hunting Reports
+     - Summarize threat hunting findings
+     - Generate comprehensive reports
+
+## Cybersecurity Research
+   - Research Paper Summarization
+     - Summarize complex cybersecurity research papers
+     - Generate comprehensible summaries for non-experts
+   - Cybersecurity Trend Analysis
+     - Analyze current cybersecurity trends
+     - Predict future cybersecurity trends
